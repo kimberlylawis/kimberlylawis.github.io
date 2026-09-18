@@ -1,0 +1,11 @@
+# Source CV stays local; the PDF in assets/ is what gets published.
+*.docx
+*.doc
+~$*
+
+# OS and editor cruft
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/

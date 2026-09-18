@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <style>
+    rect { fill: #ffffff; }
+    text { fill: #000000; }
+    @media (prefers-color-scheme: dark) {
+      rect { fill: #121210; }
+      text { fill: #f5f4f0; }
+    }
+  </style>
+  <rect width="64" height="64"/>
+  <rect x="0" y="0" width="64" height="5" fill="#e5341c"/>
+  <text x="32" y="44" text-anchor="middle" font-family="Helvetica, Arial, sans-serif"
+        font-size="30" font-weight="700" letter-spacing="-1.5">KL</text>
+</svg>
